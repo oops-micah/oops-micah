@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @oops-micah
 - 👀 I’m interested in learning new things ...
-- 🌱 I’m currently studying a Bachelor of Computing qualification
+- 🌱 I’m currently studying a Bachelor of Computing qualification, and learning more about data algorithms!
 - 💞️ I’m looking to collaborate on projects that matter!
-- 📫 How to reach me??, Here! -> catch me on micahsamuel1024@gmail.com or 072 335 8567
+- 📫 How to reach me??, Here! -> catch me on micahsamuel1024@gmail.com
 - ⚡ Fun fact: I bring my humor to the table, wherever and whenever!
 
 <!---
